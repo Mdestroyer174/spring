@@ -17,7 +17,7 @@ public class Customer {
 	@Column(name = "ID")
 	Long id;
 	
-	@Column(name = "SUPRIM")
+	@Column(name = "SUPRIMO")
 	String suprimo;
 
 	@Column(name = "NAME")
